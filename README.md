@@ -1,5 +1,7 @@
 
 
+![54b6c068097599 5b50bca476b9b](https://user-images.githubusercontent.com/109499842/181924660-28f646f3-919b-4051-b131-dd30ddae6de6.gif)
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=times&size=40&duration=6000&color=BC3AF7&background=8AFFDB00&center=true&vCenter=true&multiline=true&width=800&height=160&lines=WELCOME+TO+AHMED+SHAHAN'S+PROFILE;BS+in+Computer+Science+%26+Engineering;North+South+University%2C+Dhaka%2C+Bangladesh)](https://git.io/typing-svg)
 
 <h1 align="left">Hi There </h1>
