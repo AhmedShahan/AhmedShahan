@@ -1,5 +1,5 @@
-<h1 align="left">Hi There👋</h1>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=This+is+SHAHAN+AHMED)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&color=D249F7&width=800&height=66&lines=WELCOME+TO+AHMED+SHAHAN's+PROFILE)](https://git.io/typing-svg)
+<h1 align="left">Hi There👋</h1>  
 <p>This is Ahmed Shahan.</br> Currently Completing <b>BS in Computer Science & Engineering</b> Degree from <b>North South University</b>, Dhaka, Bangladesh.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedshahan&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedshahan" /> </p>
