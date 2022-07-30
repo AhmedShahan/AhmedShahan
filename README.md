@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&color=D249F7&width=800&height=66&lines=WELCOME+TO+AHMED+SHAHAN's+PROFILE)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=times&size=40&duration=6000&color=BC3AF7&background=8AFFDB00&width=800&height=80&lines=WELCOME+TO+AHMED+SHAHAN'S+PROFILE;BS+in+Computer+Science+%26+Engineering;North+South+University%2C+Dhaka%2C+Bangladesh)](https://git.io/typing-svg)
 <h1 align="left">Hi There👋</h1>  
 <p>This is Ahmed Shahan.</br> Currently Completing <b>BS in Computer Science & Engineering</b> Degree from <b>North South University</b>, Dhaka, Bangladesh.</p>
 
