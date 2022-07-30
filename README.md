@@ -1,7 +1,8 @@
-![IMG_20210830_184839-01](https://user-images.githubusercontent.com/109499842/181919373-fb369aea-5d0f-4b06-8d5f-cf67eb6542a3.jpeg)
+
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=times&size=40&duration=6000&color=BC3AF7&background=8AFFDB00&center=true&vCenter=true&multiline=true&width=800&height=160&lines=WELCOME+TO+AHMED+SHAHAN'S+PROFILE;BS+in+Computer+Science+%26+Engineering;North+South+University%2C+Dhaka%2C+Bangladesh)](https://git.io/typing-svg)
 
-<h1 align="left">Hi There</h1>
+<h1 align="left">Hi There </h1>
 <p>This is Ahmed Shahan.</br> Currently Completing <b>BS in Computer Science & Engineering</b> Degree from <b>North South University</b>, Dhaka, Bangladesh.</p>
 
 
@@ -12,6 +13,9 @@
 - 💬 Ask me about **C, C++, Python, Java**
 
 - 📫 How to reach me **shahan.ahmed001@gmail.com** 
+
+## Field of Interest:
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
