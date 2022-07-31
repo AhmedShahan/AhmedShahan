@@ -36,5 +36,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedshahan&" alt="ahmedshahan" /></p>
 
-<img alt="github contribution snake animation" src="https://github.com/Carol42/AhmedShahan/blob/output/github-contribution-grid-snake.svg">
+<img alt="github contribution snake animation" src="https://github.com/Carol42/Carol42/blob/output/github-contribution-grid-snake.svg">
 
