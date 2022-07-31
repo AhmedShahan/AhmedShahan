@@ -7,16 +7,15 @@
 <h1 align="left">Hi There </h1>
 <p>This is Ahmed Shahan.</br> Currently Completing <b>BS in Computer Science & Engineering</b> Degree from <b>North South University</b>, Dhaka, Bangladesh.</p>
 
-
-
-
-
-
 - 💬 Ask me about **C, C++, Python, Java**
 
 - 📫 How to reach me **shahan.ahmed001@gmail.com** 
 
 ## Field of Interest:
+|___|___|
+|---|----|
+|Internet Of Things (IOT) |![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/109499842/182008294-a228fb48-cac5-4833-9153-8b899f6e9a1d.gif)|
+
 
 
 <h3 align="left">Connect with me:</h3>
