@@ -35,3 +35,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedshahan&show_icons=true&locale=en" alt="ahmedshahan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedshahan&" alt="ahmedshahan" /></p>
+
+<img alt="github contribution snake animation" src="https://github.com/Carol42/AhmedShahan/blob/output/github-contribution-grid-snake.svg">
+
