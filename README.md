@@ -37,5 +37,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedshahan&" alt="ahmedshahan" /></p>
 
 ## Snake Eatting my Contribution
-![snake gif](https://github.com/AhmedShahan/AhmedShahan/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/AhmedShahan/AhmedShahan/blob/output/snake.svg)
 
