@@ -38,5 +38,4 @@
 
 ## Snake Eatting my Contribution
 ![snake gif](https://github.com/AhmedShahan/AhmedShahan/blob/output/github-contribution-grid-snake.gif)
-<img src="https://raw.githubusercontent.com/AhmedShahan/AhmedShahan/output/snake.svg" alt="Snake animation" />
 
