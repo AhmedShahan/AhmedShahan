@@ -39,3 +39,7 @@
 ## Snake Eatting my Contribution
 ![snake gif](https://github.com/AhmedShahan/AhmedShahan/blob/output/snake.svg)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedShahan&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmedShahan&show_icons=true&theme=radical&rank_icon=github)
+
+
