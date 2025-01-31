@@ -13,12 +13,16 @@
 
 ## Field of Interest:
 
-|Artificial Neural Network|![gifgit (2)](https://github.com/user-attachments/assets/ee332c8a-aff8-4067-b596-175ccc236580)
-|
+|**Artificial Neural Network (ANN)**|![ANN](https://github.com/user-attachments/assets/b054b39d-877c-454e-a21e-6aab8f922307)|
 |---|----|
-|**Internet Of Things (IOT)**|![shahan3](https://user-images.githubusercontent.com/109499842/182008798-eeb5d520-33e8-46b1-ba11-c3a00413ff99.gif)|
-
-
+|**Conputer Vision & Image Processing**|![CV](https://github.com/user-attachments/assets/a591657c-b9a3-432f-a7a7-ca62c51899ec)|
+|---|----|
+|**Generative AI (GenAI)**||
+|---|----|
+|**Deep Reinforcemnt Learning**||
+|---|----|
+|**Artificial General Intelligence**||
+|---|----|
 
 
 
