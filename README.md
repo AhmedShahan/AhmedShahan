@@ -13,7 +13,8 @@
 
 ## Field of Interest:
 
-|Artificial Neural Network|![gifgit](https://github.com/user-attachments/assets/b7661bf8-a1e7-4470-b15f-4b606fe38d3b)|
+|Artificial Neural Network|![gifgit (2)](https://github.com/user-attachments/assets/ee332c8a-aff8-4067-b596-175ccc236580)
+|
 |---|----|
 |**Internet Of Things (IOT)**|![shahan3](https://user-images.githubusercontent.com/109499842/182008798-eeb5d520-33e8-46b1-ba11-c3a00413ff99.gif)|
 
