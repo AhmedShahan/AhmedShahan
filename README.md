@@ -13,9 +13,9 @@
 
 ## Field of Interest:
 
-|**Artificial Neural Network (ANN)**|![ANN](https://github.com/user-attachments/assets/b054b39d-877c-454e-a21e-6aab8f922307)|
+|**Artificial Neural Network (ANN)**|![ANN](https://github.com/user-attachments/assets/bc0f7774-b8c6-4e63-aa40-3bf231fb9a35)|
 |---|----|
-|**Conputer Vision & Image Processing**|![CV](https://github.com/user-attachments/assets/a591657c-b9a3-432f-a7a7-ca62c51899ec)|
+|**Conputer Vision & Image Processing**||
 |---|----|
 |**Generative AI (GenAI)**||
 |---|----|
@@ -23,6 +23,7 @@
 |---|----|
 |**Artificial General Intelligence**||
 |---|----|
+
 
 
 
