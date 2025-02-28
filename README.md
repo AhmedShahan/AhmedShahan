@@ -15,14 +15,12 @@
 
 |**Artificial Neural Network (ANN)**|![ANN](https://github.com/user-attachments/assets/bc0f7774-b8c6-4e63-aa40-3bf231fb9a35)|
 |---|----|
-|**Conputer Vision & Image Processing**||
-|---|----|
-|**Generative AI (GenAI)**||
-|---|----|
+|**Computer Vision & Image Processing**|![cv](https://github.com/user-attachments/assets/44268722-a904-410d-b07d-5e115467a49a)|  
+|**Generative AI (GenAI)**|![Gen AI](https://github.com/user-attachments/assets/c54e3abe-31b2-42b3-8184-9b43742e4769)|  
+|**Natural Language Processing**||
+|**Large Language Moddel (LLM)**||
 |**Deep Reinforcemnt Learning**||
-|---|----|
-|**Artificial General Intelligence**||
-|---|----|
+|**Artificial General Intelligence**|![agi](https://github.com/user-attachments/assets/20d1230b-7511-45ca-9d3f-77b05049ce5e)|
 
 
 
