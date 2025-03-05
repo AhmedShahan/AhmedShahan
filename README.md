@@ -17,12 +17,17 @@
 |---|----|
 |**Computer Vision & Image Processing**|![cv](https://github.com/user-attachments/assets/44268722-a904-410d-b07d-5e115467a49a)|  
 |**Generative AI (GenAI)**|![Gen AI](https://github.com/user-attachments/assets/c54e3abe-31b2-42b3-8184-9b43742e4769)|  
-|**Natural Language Processing**||
-|**Large Language Moddel (LLM)**||
-|**Deep Reinforcemnt Learning**||
+|**Natural Language Processing**|![nlp](https://github.com/user-attachments/assets/abfe27df-06b4-4cc1-86d7-2b9a8e066ae2)|
+|**Large Language Moddel (LLM)**|![llm](https://github.com/user-attachments/assets/432852f7-3787-4e3e-9495-c7a5b997efb5)|
+|**RAG & Langchain Ecosysthom** |![rag](https://github.com/user-attachments/assets/6e209738-788f-4ce9-8a12-545ce552e5fe)|
+|**Deep Reinforcemnt Learning**|![reinforcement](https://github.com/user-attachments/assets/34842240-ef2e-4e32-8e39-0779bb7aba0d)|
 |**Artificial General Intelligence**|![agi](https://github.com/user-attachments/assets/20d1230b-7511-45ca-9d3f-77b05049ce5e)|
 
 
+
+
+
+ 
 
 
 
