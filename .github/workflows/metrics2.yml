@@ -1,0 +1,19 @@
+name: Metrics
+on:
+  schedule: [{cron: "0 0 * * *"}]
+  workflow_dispatch:
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_isocalendar: yes
+          plugin_skyline: yes
+          plugin_skyline_year: 2023  # You can set the year (or use auto)
+          plugin_skyline_frames: 60  # Number of frames
+          plugin_skyline_quality: 1.0  # Rendering quality (0.1 to 1.0)
