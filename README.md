@@ -10,7 +10,7 @@
 - 💬 Ask me about **C, C++, Python, Java**
 
 - 📫 How to reach me **shahan.ahmed001@gmail.com**  
-![GitHub Skyline](https://raw.githubusercontent.com/AhmedShahan/AhmedShahan/main/metrics.svg)
+![Skyline](https://raw.githubusercontent.com/AhmedShahan/AhmedShahan/main/skyline.svg)
 
 ## Field of Interest:
 
