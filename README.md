@@ -1,58 +1,237 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AhmedShahan.AhmedShahan" />
+<div align="center">
 
-![54b6c068097599 5b50bca476b9b](https://user-images.githubusercontent.com/109499842/181924660-28f646f3-919b-4051-b131-dd30ddae6de6.gif)
+# 🚀 Welcome to Ahmed Shahan's Digital Universe
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=times&size=40&duration=6000&color=BC3AF7&background=8AFFDB00&center=true&vCenter=true&multiline=true&width=800&height=150&lines=WELCOME+TO+AHMED+SHAHAN'S+PROFILE;BS+in+Computer+Science+%26+Engineering;North+South+University%2C+Dhaka%2C+Bangladesh)](https://git.io/typing-svg)
-*** 
-<h1 align="left">Hi There </h1>
-<p>This is Ahmed Shahan.</br> Currently Completing <b>BS in Computer Science & Engineering</b> Degree from <b>North South University</b>, Dhaka, Bangladesh.</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=500&color=FF6B35&background=000000&center=true&vCenter=true&multiline=true&width=800&height=120&lines=🔥+AHMED+SHAHAN+🔥;💻+CS+%26+Engineering+Student;🤖+AI+%26+ML+Enthusiast;🌟+Innovation+Seeker)](https://git.io/typing-svg)
 
-- 💬 Ask me about **C, C++, Python, Java**
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150"/>
 
-- 📫 How to reach me **shahan.ahmed001@gmail.com**  
-![Skyline](https://raw.githubusercontent.com/AhmedShahan/AhmedShahan/main/skyline.svg)
+[![Profile Views](https://komarev.com/ghpvc/?username=AhmedShahan&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/AhmedShahan)
+[![GitHub followers](https://img.shields.io/github/followers/AhmedShahan?label=Follow&style=social)](https://github.com/AhmedShahan)
+[![Years Badge](https://badges.pufler.dev/years/AhmedShahan)](https://badges.pufler.dev)
 
-## Field of Interest:
+</div>
 
-|**Artificial Neural Network (ANN)**|![ANN](https://github.com/user-attachments/assets/bc0f7774-b8c6-4e63-aa40-3bf231fb9a35)|
-|---|----|
-|**Computer Vision & Image Processing**|![cv](https://github.com/user-attachments/assets/44268722-a904-410d-b07d-5e115467a49a)|  
-|**Generative AI (GenAI)**|![Gen AI](https://github.com/user-attachments/assets/c54e3abe-31b2-42b3-8184-9b43742e4769)|  
-|**Natural Language Processing**|![nlp](https://github.com/user-attachments/assets/abfe27df-06b4-4cc1-86d7-2b9a8e066ae2)|
-|**Large Language Moddel (LLM)**|![llm](https://github.com/user-attachments/assets/432852f7-3787-4e3e-9495-c7a5b997efb5)|
-|**RAG & Langchain Ecosysthom** |![rag](https://github.com/user-attachments/assets/6e209738-788f-4ce9-8a12-545ce552e5fe)|
-|**Deep Reinforcemnt Learning**|![reinforcement](https://github.com/user-attachments/assets/34842240-ef2e-4e32-8e39-0779bb7aba0d)|
-|**Artificial General Intelligence**|![agi](https://github.com/user-attachments/assets/20d1230b-7511-45ca-9d3f-77b05049ce5e)|
+---
 
+## 🎯 About Me
 
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
+```typescript
+const ahmed = {
+    pronouns: "He" | "Him",
+    location: "Dhaka, Bangladesh 🇧🇩",
+    education: "North South University",
+    degree: "BS in Computer Science & Engineering",
+    currentFocus: "AI & Machine Learning",
+    askMeAbout: ["AI/ML", "Python", "Java", "C++", "Research"],
+    technologies: {
+        languages: ["Python", "Java", "C++", "C"],
+        frameworks: ["Django", "TensorFlow", "PyTorch"],
+        databases: ["MySQL", "PostgreSQL"],
+        tools: ["Git", "Docker", "VS Code"]
+    },
+    currentlyLearning: "Deep Learning & Neural Networks",
+    funFact: "I debug with console.log() and I'm not ashamed! 😄"
+};
+```
 
+<div align="center">
 
- 
+### 🔥 Current Status
 
+[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/omnitenebris)
 
+</div>
 
+---
 
+## 🎨 Research Galaxy & Expertise Constellation
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shahan-nsu201/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/shahan-nsu201/" height="30" width="40" /></a>
-<a href="https://fb.com/shahan.nsu201/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook.com/shahan.nsu201/" height="30" width="40" /></a>
-<a href="https://instagram.com/shahan0201/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram.com/shahan0201/" height="30" width="40" /></a>
-</p>
+<div align="center">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### 🌟 AI/ML Universe
+<img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="50"> **Neural Networks** <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="50">
 
-![Shahan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmedShahan&show_icons=true&theme=radical&rank_icon=github)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedShahan&layout=compact)
+</div>
 
-![Commit Calendar](https://github.com/AhmedShahan/AhmedShahan/blob/main/metrics.svg)
+<table>
+<tr>
+<td width="33%">
 
+<div align="center">
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80">
 
-## Snake Eatting my Contribution
+### 🧠 Core AI/ML
+- 🔥 **Artificial Neural Networks**
+- 👁️ **Computer Vision & Image Processing**
+- 📝 **Natural Language Processing**
+- 🎮 **Deep Reinforcement Learning**
+- 📊 **Data Science & Analytics**
+
+</div>
+
+</td>
+<td width="33%">
+
+<div align="center">
+<img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="80">
+
+### 🚀 Advanced Tech
+- 🎨 **Generative AI (GenAI)**
+- 🤖 **Large Language Models**
+- 🔗 **RAG & LangChain Ecosystem**
+- 🌌 **Artificial General Intelligence**
+- ⚡ **MLOps & Model Deployment**
+
+</div>
+
+</td>
+<td width="33%">
+
+<div align="center">
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="80">
+
+### 💻 Development
+- 🐍 **Python Development**
+- ☕ **Java Applications**
+- 🔧 **C/C++ Programming**
+- 🌐 **Web Development**
+- 📱 **Software Engineering**
+
+</div>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Arsenal & Weapons of Choice
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+
+### 💥 Programming Languages
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+### 🎯 AI/ML Frameworks
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+
+### 🌐 Web & Database
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🔧 Tools & DevOps
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats Universe
+
+<div align="center">
+
+### 🔥 The Battleground
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AhmedShahan&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedShahan&layout=compact&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF"/>
+
+### ⚡ Streak Stats
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AhmedShahan&theme=synthwave&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=F85D7F&sideLabels=F85D7F&dates=FFFFFF)](https://git.io/streak-stats)
+
+### 🏆 Achievement Unlocked
+[![trophy](https://github-profile-trophy.vercel.app/?username=AhmedShahan&theme=synthwave&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 📈 The Code Matrix
+
+<div align="center">
+
+[![Ahmed's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AhmedShahan&theme=synthwave&hide_border=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🌟 Connect & Collaborate
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Let's connect and build something amazing together!</b></em> <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+
+### 🚀 Find Me On
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://linkedin.com/in/shahan-nsu201/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/shahan.nsu201/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/shahan0201/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahan.ahmed001@gmail.com)
+
+### 💬 Let's Talk About
+![AI](https://img.shields.io/badge/AI-FF6B6B?style=flat-square&logo=tensorflow&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-4ECDC4?style=flat-square&logo=scikit-learn&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-45B7D1?style=flat-square&logo=pytorch&logoColor=white)
+![Python](https://img.shields.io/badge/Python-96CEB4?style=flat-square&logo=python&logoColor=white)
+![Research](https://img.shields.io/badge/Research-FFEAA7?style=flat-square&logo=academia&logoColor=white)
+
+</div>
+
+---
+
+## 🐍 Snake Eating My Contributions
+
+<div align="center">
+  
+<img src="https://media.giphy.com/media/3ohhwMHZ4rusG6dcti/giphy.gif" width="60">
+
 ![snake gif](https://github.com/AhmedShahan/AhmedShahan/blob/output/snake.svg)
 
+</div>
 
+---
 
+## 🎵 Vibes & Motivation
 
+<div align="center">
+
+### 💭 Philosophy
+
+```javascript
+while(alive) {
+    eat();
+    sleep();
+    code();
+    repeat();
+    innovate();
+}
+```
+
+<img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="150">
+
+### ✨ *"AI is not just the future; it's the present we're building today"*
+
+**🌟 If you find my work interesting, give it a star! 🌟**  
+**🤝 Open for collaborations and exciting projects! 🤝**
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontAlignY=65&desc=Let's%20build%20the%20future%20together!&descAlignY=51&descAlign=62"/>
+</div>
