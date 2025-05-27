@@ -2,7 +2,7 @@
 
 # 🚀 Welcome to Ahmed Shahan's Digital Universe
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=500&color=FF6B35&background=000000&center=true&vCenter=true&multiline=true&width=800&height=120&lines=🔥+AHMED+SHAHAN+🔥;💻+CS+%26+Engineering+Student;🤖+AI+%26+ML+Enthusiast;🌟+Innovation+Seeker)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=500&color=FF6B35&background=000000&center=true&vCenter=true&multiline=true&width=1000&height=190&lines=🔥+AHMED+SHAHAN+🔥;💻+CS+%26+Engineering+Student;🤖+AI+%26+ML+Enthusiast;🌟+Innovation+Seeker)](https://git.io/typing-svg)
 
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150"/>
 
@@ -19,32 +19,23 @@
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ```typescript
-const ahmed = {
-    pronouns: "He" | "Him",
-    location: "Dhaka, Bangladesh 🇧🇩",
-    education: "North South University",
-    degree: "BS in Computer Science & Engineering",
-    currentFocus: "AI & Machine Learning",
-    askMeAbout: ["AI/ML", "Python", "Java", "C++", "Research"],
-    technologies: {
-        languages: ["Python", "Java", "C++", "C"],
-        frameworks: ["Django", "TensorFlow", "PyTorch"],
-        databases: ["MySQL", "PostgreSQL"],
-        tools: ["Git", "Docker", "VS Code"]
+ahmed = {
+    "pronouns": ("Shahan", "Shaan"),
+    "location": "Dhaka, Bangladesh 🇧🇩",
+    "education": "North South University",
+    "degree": "BS in Computer Science & Engineering",
+    "currentFocus": "AI & Machine Learning",
+    "askMeAbout": ["AI/ML", "Python", "Java", "C++", "Research"],
+    "technologies": {
+        "languages": ["Python", "Java", "C++", "C"],
+        "frameworks": ["Django", "TensorFlow", "PyTorch"],
+        "databases": ["MySQL", "PostgreSQL"],
+        "tools": ["Git", "Docker", "VS Code"]
     },
-    currentlyLearning: "Deep Learning & Neural Networks",
-    funFact: "I debug with console.log() and I'm not ashamed! 😄"
-};
+    "currentlyLearning": "Deep Learning & Neural Networks",
+    "funFact": "I debug with console.log() and I'm not ashamed! 😄"
+}
 ```
-
-<div align="center">
-
-### 🔥 Current Status
-
-[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/omnitenebris)
-
-</div>
-
 ---
 
 ## 🎨 Research Galaxy & Expertise Constellation
