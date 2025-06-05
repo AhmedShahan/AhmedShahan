@@ -98,7 +98,6 @@ ahmed = {
 </table>
 
 ---
-
 ## 🛠️ Tech Arsenal & Weapons of Choice
 <div align="center">
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
@@ -138,21 +137,33 @@ ahmed = {
 ### 🌐 Web & Database
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 
 ### 🔧 Tools & DevOps
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FCA326?style=for-the-badge&logo=gitlab&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
+
+### 🔍 ML Model Optimization Tools
+![GridSearchCV](https://img.shields.io/badge/GridSearchCV-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![RandomSearchCV](https://img.shields.io/badge/RandomSearchCV-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Optuna](https://img.shields.io/badge/Optuna-3776AB?style=for-the-badge&logoColor=white)
+![Bayesian Optimization](https://img.shields.io/badge/Bayesian_Optimization-FF6B35?style=for-the-badge&logoColor=white)
+![Hyperopt](https://img.shields.io/badge/Hyperopt-4B8BBE?style=for-the-badge&logoColor=white)
+![Ray Tune](https://img.shields.io/badge/Ray_Tune-028CF0?style=for-the-badge&logoColor=white)
 
 ### ☁️ Cloud & MLOps
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logoColor=white)
 ![Weights & Biases](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logoColor=white)
-</div>
----
+</div>---
 
 ## 📊 GitHub Stats Universe
 
