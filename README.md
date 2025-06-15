@@ -4,10 +4,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=500&color=FF6B35&background=000000&center=true&vCenter=true&multiline=true&width=1000&height=190&lines=🔥+AHMED+SHAHAN+🔥;💻+CS+%26+Engineering+Student;🤖+AI+%26+ML+Enthusiast;🌟+Innovation+Seeker)](https://git.io/typing-svg)
 
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150"/>  
+<img src="https://github.com/user-attachments/assets/5af2f1a8-802c-4246-9129-a6c465dad5fd" width="250"/>  
 
 ![GitHub Skyline](https://raw.githubusercontent.com/AhmedShahan/AhmedShahan/main/metrics.svg)
-
 [![Profile Views](https://komarev.com/ghpvc/?username=AhmedShahan&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/AhmedShahan)
 [![GitHub followers](https://img.shields.io/github/followers/AhmedShahan?label=Follow&style=social)](https://github.com/AhmedShahan)
 [![Years Badge](https://badges.pufler.dev/years/AhmedShahan)](https://badges.pufler.dev)
