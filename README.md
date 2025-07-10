@@ -183,14 +183,12 @@ ahmed = {
 
 ---
 
-## 📈 The Code Matrix
+## 🚀 My Code Matrix
+*Visualizing my coding journey with vibrant contributions!*
 
 <div align="center">
-
-[![Ahmed's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AhmedShahan&theme=synthwave&hide_border=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+  <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedShahan&theme=dracula&hide_border=true&bg_color=0D1117&color=FF79C6&line=50FA7B&point=FFFFFF">
 </div>
-
 ---
 
 ## 🌟 Connect & Collaborate
