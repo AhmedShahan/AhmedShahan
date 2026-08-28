@@ -6,7 +6,7 @@
 
 <img src="https://github.com/user-attachments/assets/5af2f1a8-802c-4246-9129-a6c465dad5fd" width="250"/>  
 
-![GitHub Skyline](https://raw.githubusercontent.com/AhmedShahan/AhmedShahan/main/metrics.svg)
+![GitHub Skyline](https://raw.githubusercontent.com/AhmedShahan/AhmedShahan/main/skyline.svg)
 [![Profile Views](https://komarev.com/ghpvc/?username=AhmedShahan&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/AhmedShahan)
 [![GitHub followers](https://img.shields.io/github/followers/AhmedShahan?label=Follow&style=social)](https://github.com/AhmedShahan)
 [![Years Badge](https://badges.pufler.dev/years/AhmedShahan)](https://badges.pufler.dev)
