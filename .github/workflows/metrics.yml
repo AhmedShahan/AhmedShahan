@@ -15,6 +15,6 @@ jobs:
           base: ""
           plugin_isocalendar: yes
           plugin_skyline: yes
-          plugin_skyline_year: 2024
-          plugin_skyline_frames: 60
-          plugin_skyline_quality: 1.0
+          plugin_skyline_year: 2025
+          plugin_skyline_frames: 24
+          plugin_skyline_quality: 0.5
