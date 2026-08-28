@@ -187,7 +187,7 @@ ahmed = {
 *Visualizing my coding journey with vibrant contributions!*
 
 <div align="center">
-  <img width="90%" src="https://github-readme-activity-graph-plum-chi.vercel.app/graph?username=AhmedShahan&theme=react&hide_border=true&bg_color=0D1117&color=FF79C6&line=50FA7B&point=FFFFFF">
+  <img width="100%" src="https://github-readme-activity-graph-plum-chi.vercel.app/graph?username=AhmedShahan&theme=github-compact&hide_border=true&bg_color=0D1117&color=FF79C6&line=50FA7B&point=FFFFFF">
 </div>
 ---
 
