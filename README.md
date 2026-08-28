@@ -170,8 +170,8 @@ ahmed = {
 
 ### 🔥 The Battleground
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AhmedShahan&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedShahan&layout=compact&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF"/>
+<img height="180em" src="https://github-stats-extended.vercel.app/api?username=AhmedShahan&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF"/>
+<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AhmedShahan&layout=compact&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF"/>
 
 ### ⚡ Streak Stats
 [![GitHub Streak](https://streak-stats.demolab.com/?user=AhmedShahan&theme=synthwave&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=F85D7F&sideLabels=F85D7F&dates=FFFFFF)](https://git.io/streak-stats)
