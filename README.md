@@ -6,10 +6,12 @@
 
 <img src="https://github.com/user-attachments/assets/5af2f1a8-802c-4246-9129-a6c465dad5fd" width="250"/>  
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/AhmedShahan/AhmedShahan/main/metrics.svg" width="500" alt="GitHub Skyline">
-  <img src="https://raw.githubusercontent.com/AhmedShahan/AhmedShahan/main/koi/koi.gif" width="200" alt="My koi">
-</div>
+<table align="center">
+<tr>
+<td valign="middle"><img src="https://raw.githubusercontent.com/AhmedShahan/AhmedShahan/main/metrics.svg" width="500" alt="GitHub Skyline"></td>
+<td valign="middle"><img src="koi/koi.gif" width="500" alt="My koi"></td>
+</tr>
+</table>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=AhmedShahan&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/AhmedShahan)
 [![GitHub followers](https://img.shields.io/github/followers/AhmedShahan?label=Follow&style=social)](https://github.com/AhmedShahan)
